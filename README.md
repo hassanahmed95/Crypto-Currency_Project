@@ -1,4 +1,4 @@
-# Task 1 - Data Analysis and Machine Learning Projects
+# Data Analysis and Machine Learning Projects
 
 This folder contains two separate data analysis and machine learning projects.
 
